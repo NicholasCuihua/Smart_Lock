@@ -1,0 +1,18 @@
+
+#ifndef RTCONFIG_PREINC_H__
+#define RTCONFIG_PREINC_H__
+
+/* Automatically generated file; DO NOT EDIT. */
+/* RT-Thread pre-include file */
+
+#define HAVE_CCONFIG_H
+#define LV_LVGL_H_INCLUDE_SIMPLE 1
+#define RT_USING_LIBC
+#define RT_USING_NEWLIB
+#define STM32F407xx
+#define USE_HAL_DRIVER
+#define _POSIX_C_SOURCE 1
+#define __RTTHREAD__
+#define _REENT_SMALL
+
+#endif /*RTCONFIG_PREINC_H__*/
